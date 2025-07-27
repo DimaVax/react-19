@@ -1,4 +1,4 @@
-import { useCount } from "./useCount";
+import { useCount } from "../hooks/useCount";
 
 
 export const Statistics = ({good, neutral, bad}) => {
